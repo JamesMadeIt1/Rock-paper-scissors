@@ -1,0 +1,39 @@
+
+body{
+    background-color: black;
+}
+
+
+.rock-icon{
+ background-color: transparent;
+ width: 100px;
+
+}
+
+.paper-icon{
+ background-color: transparent;
+ width: 93px;
+
+
+}
+
+.Scissors-icon{
+ background-color: transparent;
+ width: 100px;
+
+}
+
+.move-button{
+ background-color: transparent;
+ border: 3px solid white;
+ border-radius: 200px;
+ width: 150px;
+ height: 150px;
+ cursor:pointer;
+ margin: 15px;
+ margin-bottom: 20px;
+}
+ /* <p>Amazon Shipping calculator</p>
+     <p>Amazon Shipping charge is $10</p>
+     <p>No Shipping charge for orders above $40</p>
+     */
